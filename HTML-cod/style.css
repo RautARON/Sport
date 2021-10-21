@@ -1,0 +1,366 @@
+body{
+	
+}
+
+.basty{
+	background-color:#B8D4ED ;
+
+	padding-top: 150px;
+}
+
+.basy{
+	margin-left: 8%;
+	
+	margin-right: 9%;
+}
+.basy{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.ush{
+	display: flex;	
+}
+
+.ush > img{
+	width: 30%;
+	border-radius: 5% 100% 5% 100%;
+}
+
+.ush > img.bir{
+	margin: 20px;
+	margin-top: 50px;
+}
+
+
+.jazu{  
+	width: 300px;
+	margin-top: 70px;
+}
+
+.jazu h1{
+	margin: 0px;
+	font-size: 40px;
+	font-family: "Arial Black";
+	color: #FF8031;
+}
+
+.jazu h4{
+	font-size: 20.9;
+	font-family: "Arial Black";
+	margin-bottom: 0px;
+}
+
+.jazu p{
+	width: 300px;
+	margin-bottom: 0px;
+	margin-top: 1px;
+	font-size: 15px;
+	margin-left: 0px;
+	color: #000;
+}
+
+.ortasy{
+	background-image: url(background.jpg);
+	background-size: 100%;
+	background-repeat: repeat-x;
+}
+
+.bos{
+	padding: 70px;
+
+}
+.bos1{
+	padding:  150px;
+}
+.janalyq{
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 18%;
+	margin-right: 15%;
+	background-color: rgba(250, 250, 250, 0.5);
+	border-radius: 25%;
+		padding-left: 10% ;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.sisilka{
+	align-items:flex-start;	
+	
+	width: 31%;
+	margin-top: 10px;
+	border-radius: 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 25px;
+	background-color: rgb(255, 255, 255);
+}
+
+.asty{
+	background-color:#fff ;
+}
+
+
+.red_1, .red_2{
+	outline-color: hsla(0, 100%, 0%, 1.0);
+	outline-style: dashed;
+	width: 250px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+}
+
+.san{
+	font-size: 40px;
+}
+
+.red_1{
+	margin-top: 100px;
+	margin-left: 15%;
+}
+
+
+
+.lll{
+	margin: 20px;
+	margin-left: 40%;
+    padding: 10px 50px;
+}
+
+.red_2{
+	margin-bottom: 100px;
+	margin-left: 65%;
+	margin-right:15%;
+}
+
+.san, .red_aty{
+	font-family: "Oswald", sans-serif;
+	display: inline-block;
+}
+
+.red_aty{
+	font-family: "Arial", serif;
+	font-size: 25px;
+}
+
+ .nadpis{
+	font-family: "Oswald", sans-serif;
+	font-style: solid;
+	color: whitesmoke;
+	padding-top: 15px;
+}
+
+.footer_contact{
+	padding-top: 80px;
+	padding-bottom: 100px;
+	background-color: hsl(1, 1%, 25%);
+}
+
+svg{
+	color: whitesmoke;
+}
+
+.footer_contact a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+.insta_1, a{
+	display: inline-block;
+	font-size: 10px;
+} 
+
+.insta_2, a{
+	display: inline-block;
+} 
+
+
+
+.usti{
+	background-color: #000;
+    padding: 50px 0px 100px 0px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.usti p{
+	color: #fff;
+
+	font-size: 10px;
+	width: 200px;
+	text-align: center;
+}
+
+.usti h3, p{
+	margin-left: 5%;
+}
+.usti h3{
+	font-family: sans-serif;
+	color: #fff;
+	margin-left: 10%;
+
+}
+.qisyq{
+	margin-left: 230px;
+}
+
+.usti .sol{
+	padding-right: 20px;
+
+
+}
+
+.on img{
+	margin-top: 100px;
+	width: 100%;
+}
+
+
+.ortala{
+	background-image: url(revnlo9z.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.ortala .boiau{
+		background-color: hsla(0, 100%, 0%, 0.5);
+		padding: 1% 0%;
+}
+
+.taityly{
+	color: rgb(184, 212, 237);
+	text-align: center;
+	margin-top: 5%;
+	font-family: sans-serif;
+}
+
+.boiau .orta_jazu{
+	    background-color: rgb(184, 212, 237);
+	    margin: 5% 0% 13% 0%;
+	    display: flex;
+	    justify-content: space-around;
+}
+
+.orta_jazu p{
+	font-size: 10px;
+	width: 150px;
+	margin: auto;	
+	text-align: center;
+}
+.orta_jazu h5{
+	font-size: 15px;
+	
+	padding-top: 5% ;
+	text-align: center;
+	margin-top: 5%;
+}
+.orta_jazu div{
+	border-width: 2px;
+	border-style: dashed;
+	border-color: #000;
+	padding: 10px;
+	margin: 1% 0px;
+}
+
+.arasy {
+	background-image: url(arasy.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 73% 37% 55% 37%;
+}
+.arasy div.naqyl_soz, .avtory{
+	font-style: italic;
+	color: #fff;
+	text-align: center;
+
+} 
+
+.aiagy{
+	background-color: rgb(28, 37, 41);
+	padding: 5%;
+
+
+}
+.aiagy table{
+	padding-top: 5%;
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+}
+
+.aiagy h3{
+	color: #fff;
+	font-family: sans-serif;;
+}
+
+.table a{
+	font-size: 15px;
+}
+
+.aiagy p{
+	margin-left: -5px;
+}
+
+
+
+.btn{
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	padding: 5px 15px;
+}
+
+.fsony{
+	background-image: url(qfantasy.jpg);
+	background-size: 100%;
+
+	padding: 14% 25%;
+	background-repeat: no-repeat;
+}
+
+.arty{
+	background-image: url(123456.jpg);
+	background-size: 15% 5%;
+	padding: 10% 12.5% ;
+}
+.arty div{
+	background-color: #fff;
+	padding-top: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.tobesi{
+	margin: 0px;
+	padding: 2% ;
+	text-align: center;
+	background-color: hsl(1, 1%, 25%);
+	}
+.tobesi a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+}
+.sandik{
+	display: flex;
+	justify-content: space-around;
+}
+
+.arty img{
+	border-radius: 0% 50%;
+	width: 100%;
+
+}
+
+.sandik img{
+	border-radius: 50%;
+	width: 100px;
+	margin: 1%;
+
+}
+
+.suret2{
+	border-radius: 50% 50%;
+	width: 100%;
+	padding-bottom: 10%;
+}
+

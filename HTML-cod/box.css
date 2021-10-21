@@ -1,0 +1,59 @@
+body{
+    background: url(ring.jfif);
+    width: 100%;
+    
+ 
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    color: hsl(0, 0%, 100%);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+input{
+    display: none;
+}
+
+.img{
+    width: 550px;
+    height: 350px;
+}
+.txt{
+    color:hsl(0, 0%, 100%);
+    width:550px;
+    font-family: sans-serif;
+    word-break: normal;
+}
+.txt1{
+    color:hsl(0, 0%, 100%);
+    word-break: normal;
+    text-align: center;
+    border:2px solid white;
+}
+TABLE {
+    width: 100%; /* Ширина таблицы */
+    
+    
+   }
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+   }
+   TD {
+    background: gray;
+   }
+   th{
+       background:black;
+   }
+
+#toggle:not(:checked)+.txt1{
+    display: none;
+}
